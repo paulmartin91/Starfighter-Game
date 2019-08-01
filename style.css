@@ -1,0 +1,19 @@
+#myCanvas {
+  width: 800px;
+  height:500px;
+  border: solid;
+}
+
+#test {
+  position: absolute;
+  top: 180px;
+  left: 260px;
+  font-size: 3em;
+  display: none;
+}
+
+#but {
+position: relative;
+left: 100px;
+top: -50px;
+}
