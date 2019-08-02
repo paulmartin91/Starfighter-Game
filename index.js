@@ -1,3 +1,5 @@
+$(document).ready(function(){
+
 //Music
 
 //Canvas
@@ -193,4 +195,4 @@ fire();
 }
   
 });
-
+});
